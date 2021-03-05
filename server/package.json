@@ -7,6 +7,6 @@
     "foo": "file:../npm/foo-v2"
   },
   "devDependencies": {
-    "typescript": "^3.7.0"
+    "typescript": "^4.2.3"
   }
 }

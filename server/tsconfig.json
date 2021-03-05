@@ -6,7 +6,8 @@
     "target": "es2015",
     "module": "commonjs",
     "rootDir": "./",
-    "typeRoots": ["./node_modules/@types"]
+    "typeRoots": ["./node_modules/@types"],
+    "types": []
   },
   "include": [
     "src"

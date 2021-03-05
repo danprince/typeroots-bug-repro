@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noEmit": true,
+    "target": "es2015",
+    "module": "commonjs",
+    "rootDir": "./",
+    "typeRoots": ["./node_modules/@types"]
+  },
+  "include": [
+    "src"
+  ]
+}

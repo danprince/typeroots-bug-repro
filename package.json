@@ -1,0 +1,11 @@
+{
+  "name": "@danprince/monorepo",
+  "private": true,
+  "dependencies": {
+    "@types/foo": "file:./npm/@types/foo",
+    "foo": "file:./npm/foo-v1"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.0"
+  }
+}
